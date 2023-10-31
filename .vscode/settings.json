@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "chrono": "cpp"
-    }
+    },
+    "dotnet.defaultSolution": "cs/.project/gRPC_test.sln"
 }
