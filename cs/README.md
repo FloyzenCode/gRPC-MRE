@@ -1,0 +1,1 @@
+# If you want - change path project/*.sln.../*.csproj in /cs/*.sln.../*.csproj
